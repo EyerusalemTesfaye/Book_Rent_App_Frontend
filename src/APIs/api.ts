@@ -1,7 +1,7 @@
 import axios, { AxiosInstance } from "axios";
 
 export const props: any = {
-    baseURL: "http://157.230.48.29:3005/api/",
+    baseURL: "http://157.230.48.29:3007/api/",
     // crossdomain: true,
     headers: {
     //     "Referrer-Policy": "no-referrer",
